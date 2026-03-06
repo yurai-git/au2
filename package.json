@@ -20,7 +20,7 @@
   "packageManager": "pnpm@10.30.3",
   "type": "module",
   "bin": {
-    "yurai-template": "dist/index.js"
+    "au2": "dist/index.js"
   },
   "files": [
     "dist"
