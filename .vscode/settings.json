@@ -1,7 +1,7 @@
 {
   "editor.codeActionsOnSave": {
     "source.fixAll": "always",
-    "source.removeUnusedImports": "always"
+    "source.removeUnusedImports": "always",
   },
   "eslint.validate": [
     "javascript",
@@ -26,6 +26,6 @@
     "vento",
     "mustache",
     "xml",
-    "yaml"
-  ]
+    "yaml",
+  ],
 }
