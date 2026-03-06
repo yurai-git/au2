@@ -1,6 +1,6 @@
 {
   "name": "@yurai/au2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to create directories for AviUtl 2 projects, completely for private use.",
   "repository": {
     "type": "git",
